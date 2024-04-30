@@ -1,0 +1,17 @@
+/* Customize the colors for interactive Streamlit elements */
+.stButton>button {
+    background-color: #f1863d; /* Orange background for buttons */
+    color: #ededf5;
+}
+
+.stTextInput>div>div>input {
+    background-color: #ededf5;
+    color: #383838; /* Dark text for contrast */
+}
+
+h1.changa-title {
+    font-family: "Changa", sans-serif;
+    font-weight: 700; /* Bold weight */
+    font-style: normal;
+    color: #ededf5 !important; /* Ensure the color applies overriding default */
+}
