@@ -1,6 +1,7 @@
 # Bibliotecas de Processamento de Vídeo
 ffmpeg-python
 pytube
+moviepy
 
 # Reconhecimento e Processamento de Fala
 git+https://github.com/openai/whisper.git
