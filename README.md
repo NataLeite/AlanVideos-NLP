@@ -7,4 +7,4 @@ Realizado em 2023 pela área de Processamento de Linguagem Natural, este projeto
 ## Como usar?
 Baixe todos os arquivos em seu computador e abra o "app.ipynb" no Google Colab. Em seguida, faça upload dos arquivos no seu notebook do Colab antes de executar o aplicativo. Para este método, você precisará utilizar a sua própria chave da OpenAI, que deverá ser salva num arquivo txt e armazenada, também, na sessão do Colab.
 
-Também é possível acessar o projeto diretamente através da nossa página no HuggingFace: ---
+Também é possível acessar o projeto diretamente através da nossa página no HuggingFace: https://huggingface.co/spaces/turing-usp/AlanVideos
