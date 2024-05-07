@@ -1,23 +1,23 @@
 # Bibliotecas de Processamento de Vídeo
-ffmpeg-python
-pytube
-moviepy
+ffmpeg-python == 0.2.0
+pytube == 15.0.0
+moviepy == 1.0.3
 
 # Reconhecimento e Processamento de Fala
 git+https://github.com/openai/whisper.git
-SpeechRecognition
+SpeechRecognition == 3.10.4
 
 # Frameworks de Machine Learning e Deep Learning
-torch
-transformers
+torch == 2.3.0
+transformers == 4.40.1
 
 # Indexação de Dados e Busca por Similaridade
-faiss-gpu
+faiss-gpu == 1.7.2
 
 # Bibliotecas PLN e APIs de IA
-nltk
-langchain
-openai
+nltk == 3.8.1
+langchain == 0.1.17
+openai == 1.26.0
 
 # Framework de Aplicação Web
-streamlit
+streamlit == 1.34.0
