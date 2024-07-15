@@ -1,6 +1,6 @@
 # Bibliotecas de Processamento de Vídeo
 ffmpeg-python == 0.2.0
-pytube == 15.0.0
+git+https://github.com/turing-usp/pytube
 moviepy == 1.0.3
 
 # Reconhecimento e Processamento de Fala
